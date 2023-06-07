@@ -1,0 +1,45 @@
+.number {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.regular {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: green;
+    margin: 5px;
+}
+
+.Fizz {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: blue;
+    margin: 5px;
+}
+
+.Buzz {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    margin: 5px;
+}
+
+.FizzBuzz {
+    display: flex;
+    width: 75px;
+    height: 75px;
+    justify-content: center;
+    align-items: center;
+    background-color: blueviolet;
+    margin: 5px;
+}
